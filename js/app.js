@@ -54,7 +54,7 @@ var app = new Framework7({
 		
 	],
 	dialog: {
-		title: 'Rythmica',
+		title: 'CGCakes',
 		buttonOk: 'Aceptar',
   	},
 	popup: {
